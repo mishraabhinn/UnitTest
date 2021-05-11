@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{4920877A-DFF1-4B02-BAF6-F817F586DEC3}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Tests/ACM.BL.Test/UnitTest1.cs">
+    <Files>
+      <File FileName="ACM.BL/Class1.cs" Line="14" Column="17" />
+      <File FileName="Tests/ACM.BL.Test/UnitTest1.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ACM.BL" expanded="True">
+            <Node name="Tests" expanded="True">
+              <Node name="ACM.BL.Test" expanded="True">
+                <Node name="UnitTest1.cs" selected="True" />
+              </Node>
+            </Node>
+            <Node name="Customer.cs" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Customer.cs FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.Tests.ACM.BL.Test FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

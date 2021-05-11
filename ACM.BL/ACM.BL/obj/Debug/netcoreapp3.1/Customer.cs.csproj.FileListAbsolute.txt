@@ -1,0 +1,9 @@
+/Users/abhinnmishra/Downloads/PracticeC-Sharp/ACM.BL/ACM.BL/bin/Debug/netcoreapp3.1/Customer.cs.deps.json
+/Users/abhinnmishra/Downloads/PracticeC-Sharp/ACM.BL/ACM.BL/bin/Debug/netcoreapp3.1/Customer.cs.dll
+/Users/abhinnmishra/Downloads/PracticeC-Sharp/ACM.BL/ACM.BL/bin/Debug/netcoreapp3.1/Customer.cs.pdb
+/Users/abhinnmishra/Downloads/PracticeC-Sharp/ACM.BL/ACM.BL/obj/Debug/netcoreapp3.1/Customer.cs.csprojAssemblyReference.cache
+/Users/abhinnmishra/Downloads/PracticeC-Sharp/ACM.BL/ACM.BL/obj/Debug/netcoreapp3.1/Customer.cs.AssemblyInfoInputs.cache
+/Users/abhinnmishra/Downloads/PracticeC-Sharp/ACM.BL/ACM.BL/obj/Debug/netcoreapp3.1/Customer.cs.AssemblyInfo.cs
+/Users/abhinnmishra/Downloads/PracticeC-Sharp/ACM.BL/ACM.BL/obj/Debug/netcoreapp3.1/Customer.cs.csproj.CoreCompileInputs.cache
+/Users/abhinnmishra/Downloads/PracticeC-Sharp/ACM.BL/ACM.BL/obj/Debug/netcoreapp3.1/Customer.cs.dll
+/Users/abhinnmishra/Downloads/PracticeC-Sharp/ACM.BL/ACM.BL/obj/Debug/netcoreapp3.1/Customer.cs.pdb
